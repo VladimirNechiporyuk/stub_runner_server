@@ -1,0 +1,7 @@
+stubrunner:
+  cloud.stubbed.discovery.enabled: false
+spring:
+  main:
+    allow-bean-definition-overriding: true
+  application.name: stub_runner_server
+server.port: 8096
